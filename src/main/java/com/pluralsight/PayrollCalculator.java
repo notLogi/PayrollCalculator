@@ -15,7 +15,7 @@ public class PayrollCalculator {
         System.out.println("Employee's name: " + myName);
         System.out.printf("Gross pay: %.2f", grossPay);
 
-
+        myScanner.close();
 
     }
 }
